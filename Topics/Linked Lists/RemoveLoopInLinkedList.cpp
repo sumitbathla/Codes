@@ -1,4 +1,4 @@
-void removeLoop(Node* head
+void removeLoop(Node* head)
 {
     if(head==NULL || head->next==NULL){
         return;
