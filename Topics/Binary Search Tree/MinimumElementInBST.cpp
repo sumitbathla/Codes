@@ -1,4 +1,4 @@
-int minValue(Node* root)
+nt minValue(Node* root)
 {
     if(root->left!=NULL){
         return minValue(root->left);
