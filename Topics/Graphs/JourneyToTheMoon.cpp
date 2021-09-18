@@ -44,3 +44,4 @@ int main(){
     }
     long long res = journeyToMoon(v, g);
     cout<<res;
+}
