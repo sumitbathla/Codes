@@ -15,3 +15,4 @@ string countAndSay(int n) {
         s = ns;
     }
     return s;
+}
