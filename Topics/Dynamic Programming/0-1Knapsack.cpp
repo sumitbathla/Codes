@@ -1,4 +1,3 @@
-
 int knapSack(int W, int wt[], int val[], int n)
 {
     int dp[n + 1][W + 1];
