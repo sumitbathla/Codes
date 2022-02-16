@@ -1,5 +1,5 @@
 Node* insert(Node* root, int Key)
-
+{
     if(root==NULL){
         return new Node(Key);
     }
