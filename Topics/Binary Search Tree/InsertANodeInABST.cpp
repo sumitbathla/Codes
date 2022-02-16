@@ -13,5 +13,5 @@ Node* insert(Node* root, int Key)
     } else{
         
     }
-    
     return root;
+};
