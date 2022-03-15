@@ -15,3 +15,4 @@ int minSwaps(vector<int>&nums){
         }
     }
     return c;
+}
