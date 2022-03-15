@@ -14,4 +14,4 @@ int minSwaps(vector<int>&nums){
             i--;
         }
     }
-    return c
+    return c;
