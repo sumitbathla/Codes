@@ -1,5 +1,5 @@
 void sort012(int a[], int n)
-
+{
     int l=0,m=0,h=a.length-1;
 
     while(m<=h){
