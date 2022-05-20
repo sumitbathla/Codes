@@ -10,4 +10,3 @@ for(int i=0;i<n;i++){
     maxth=0;
   }
 }
-x
