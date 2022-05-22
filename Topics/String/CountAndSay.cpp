@@ -16,4 +16,3 @@ string countAndSay(int n) {
     }
     return s;
 }
-x
