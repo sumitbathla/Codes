@@ -15,4 +15,3 @@ void sort012(int a[], int n)
         }
     }
 }
-z
